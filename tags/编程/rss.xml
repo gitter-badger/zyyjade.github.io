@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>建站 on 张小鱼</title>
-    <link>http://zyyjade.github.io/tags/%E5%BB%BA%E7%AB%99/</link>
-    <description>Recent content in 建站 on 张小鱼</description>
+    <title>编程 on 张小鱼</title>
+    <link>http://zyyjade.github.io/tags/%E7%BC%96%E7%A8%8B/</link>
+    <description>Recent content in 编程 on 张小鱼</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 28 Aug 2022 09:53:56 +0800</lastBuildDate><atom:link href="http://zyyjade.github.io/tags/%E5%BB%BA%E7%AB%99/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Aug 2022 09:53:56 +0800</lastBuildDate><atom:link href="http://zyyjade.github.io/tags/%E7%BC%96%E7%A8%8B/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo&#43;Next&#43;GitHub 打造个人博客</title>
       <link>http://zyyjade.github.io/post/PC-program.html</link>

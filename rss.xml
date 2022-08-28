@@ -6,23 +6,24 @@
     <description>Recent content on 张小鱼</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 28 Aug 2022 09:53:56 +0800</lastBuildDate><atom:link href="http://zyyjade.github.io/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Aug 2022 14:18:58 +0800</lastBuildDate><atom:link href="http://zyyjade.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo&#43;Next&#43;GitHub 打造个人博客</title>
-      <link>http://zyyjade.github.io/post/hugo&#43;next&#43;github-%E6%89%93%E9%80%A0%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <link>http://zyyjade.github.io/post/PC-program.html</link>
       <pubDate>Sun, 28 Aug 2022 09:53:56 +0800</pubDate>
       
-      <guid>http://zyyjade.github.io/post/hugo&#43;next&#43;github-%E6%89%93%E9%80%A0%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>http://zyyjade.github.io/post/PC-program.html</guid>
       <description>&lt;p&gt;本博客基于 Windows 10 64bit 系统，采用 Hugo 语言 + Next 主题，使用 Git 工具和 GitHub 桌面版实现本地建站和 GitHub Pages 远程托管等操作。&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>欢迎加入 Hugo NexT 组织！</title>
-      <link>http://zyyjade.github.io/post/external-link/</link>
-      <pubDate>Wed, 01 Jun 2022 15:59:41 +0800</pubDate>
+      <title>常用电脑软件清单</title>
+      <link>http://zyyjade.github.io/post/PC-software.html</link>
+      <pubDate>Sun, 28 Aug 2022 14:18:58 +0800</pubDate>
       
-      <guid>http://zyyjade.github.io/post/external-link/</guid>
-      <description>欢迎来到 Hugo NexT 文档站点！ 它是从 Theme NexT 移植过来的为 Hugo 打造的高品质优雅主题，保持简单易用的特性和强大的功能。 用户指南 设置 NexT 主题很容易。只需遵循文档，</description>
+      <guid>http://zyyjade.github.io/post/PC-software.html</guid>
+      <description>&lt;p&gt;此清单为自用软件的合集，如果你也有同样的需要，可以点击链接下载，列出清单的主要原因包括：一是现在软件更新换代很快，可以实时结合自己的需求增加或删减不需要的软件；二是软件在某一时间段内一般稳定使用，链接存储在本地不方便，也不想占用书签收藏夹的空间，所以清单是个好的选择。&lt;/p&gt;
+&lt;br&gt;</description>
     </item>
     
     <item>
