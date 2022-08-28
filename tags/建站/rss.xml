@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>建站 on 张小鱼</title>
+    <link>http://zyyjade.github.io/tags/%E5%BB%BA%E7%AB%99/</link>
+    <description>Recent content in 建站 on 张小鱼</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 28 Aug 2022 09:53:56 +0800</lastBuildDate><atom:link href="http://zyyjade.github.io/tags/%E5%BB%BA%E7%AB%99/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo&#43;Next&#43;GitHub 打造个人博客</title>
+      <link>http://zyyjade.github.io/post/hugo&#43;next&#43;github-%E6%89%93%E9%80%A0%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sun, 28 Aug 2022 09:53:56 +0800</pubDate>
+      
+      <guid>http://zyyjade.github.io/post/hugo&#43;next&#43;github-%E6%89%93%E9%80%A0%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>&lt;p&gt;本博客基于 Windows 10 64bit 系统，采用 Hugo 语言 + Next 主题，使用 Git 工具和 GitHub 桌面版实现本地建站和 GitHub Pages 远程托管等操作。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

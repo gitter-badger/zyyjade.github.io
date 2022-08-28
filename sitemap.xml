@@ -8,7 +8,42 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://zyyjade.github.io/categories/</loc>
-    <lastmod>2022-08-28T08:44:00+08:00</lastmod>
+    <lastmod>2022-08-28T09:53:56+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://zyyjade.github.io/post/hugo&#43;next&#43;github-%E6%89%93%E9%80%A0%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2022-08-28T09:53:56+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://zyyjade.github.io/post/</loc>
+    <lastmod>2022-08-28T09:53:56+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://zyyjade.github.io/tags/</loc>
+    <lastmod>2022-08-28T09:53:56+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://zyyjade.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2022-08-28T09:53:56+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://zyyjade.github.io/tags/%E5%BB%BA%E7%AB%99/</loc>
+    <lastmod>2022-08-28T09:53:56+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://zyyjade.github.io/categories/%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2022-08-28T09:53:56+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://zyyjade.github.io/</loc>
+    <lastmod>2022-08-28T09:53:56+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -22,27 +57,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://zyyjade.github.io/post/</loc>
-    <lastmod>2022-08-28T08:44:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://zyyjade.github.io/tags/</loc>
-    <lastmod>2022-08-28T08:44:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://zyyjade.github.io/tags/%E5%BC%80%E5%A7%8B/</loc>
     <lastmod>2022-08-28T08:44:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://zyyjade.github.io/categories/%E7%A4%BA%E4%BE%8B/</loc>
-    <lastmod>2022-08-28T08:44:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://zyyjade.github.io/</loc>
     <lastmod>2022-08-28T08:44:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -69,11 +89,6 @@
   </url><url>
     <loc>http://zyyjade.github.io/about.html</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://zyyjade.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2022-06-08T21:12:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
